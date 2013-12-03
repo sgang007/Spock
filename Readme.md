@@ -11,3 +11,6 @@ Mankind's interaction with Machines began with hitting a poor little array of pl
 + OpenCV (Image Processing)
 + CMU Sphinx (Speech Recognition and Synthesis)
 + C++ (Adapters for OS kernel)
+
+###### Note
+To be designed in C++ for unix but code can be ported to other platforms subsequently
